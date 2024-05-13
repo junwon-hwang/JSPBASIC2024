@@ -2,8 +2,6 @@ package com.jsp.chap04;
 
 import com.jsp.entity.Dancer;
 import com.jsp.repository.DancerJdbcRepo;
-import com.jsp.repository.DancerMemoryRepo;
-
 import javax.servlet.RequestDispatcher;
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
